@@ -1,4 +1,4 @@
-# servidores-contratistas-sancionados
+# Servidores públicos y contratistas sancionados
 Datos a 2015. Directorio de Licitantes, Proveedores y Contratistas sancionados con el impedimento para presentar propuestas o celebrar contratos con las Dependencias y Entidades de la Administración Pública Federal y de los Gobiernos de los Estados. Las personas físicas y morales sancionadas desaparecen de este Directorio cuando cumplen con el periodo de sanción y pagan su multa correspondiente (en su caso).
 
 # ¿Dónde están los datos?
